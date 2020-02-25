@@ -9,7 +9,7 @@
 [//]: # (jekyll themes - http://jekyllthemes.org/)
 [//]: # (jekyll includes - https://jekyllrb.com/docs/includes/)
 
-![Cabra Judo Club logo](images/CJClogo.png)
+![Phibsboro Judo Club logo](images/FJC_logo.png)
 
 
 
@@ -21,21 +21,21 @@
 {% include info.html url="https://www.decathlon.ie/ie_en/100-kids-judo-uniform-white-en-s149518-2080464.html?gclid=CjwKCAiA98TxBRBtEiwAVRLqu4714IZEmEKC-nac98XTQlTSUMA8jok-kVAlyv3dqDNYBALKgIQLTxoCOzAQAvD_BwE" text="Decathlon has 10&euro; judo suits for sale ideal for beginners" %}
 
 
-## Cabra
-
-<span style="color:red">**Venue**</span> Cabra Parkside Community Sports Centre, Ratoath Road, Cabra, Dublin 7 [**Map**](https://goo.gl/maps/GkZEBZg8fYvLdPHq8){:target="_blank"} 
-
-<span style="color:green">**Lessons**</span> Saturday 12:00-13:00 
-
-<span style="color:blue">**Mat fee**</span> 10 &euro;/lesson - *first lesson is free*
-
 ## Phibsboro
 
 <span style="color:red">**Venue**</span> The Space, Phibsboro Shipping Centre, Dublin 7 [**Map**](https://goo.gl/maps/NopZ3FVzMGLtEyDx9){:target="_blank"} 
 
 <span style="color:green">**Lessons**</span> Saturday 10:00-12:00 
 
-<span style="color:blue">**Mat fee**</span> 10 &euro;/lesson - *first lesson is free*
+<span style="color:blue">**Mat fee**</span> 10 &euro;/lesson (8 &euro; for siblings) - *first lesson is free*
+
+## Cabra
+
+<span style="color:red">**Venue**</span> Cabra Parkside Community Sports Centre, Ratoath Road, Cabra, Dublin 7 [**Map**](https://goo.gl/maps/GkZEBZg8fYvLdPHq8){:target="_blank"} 
+
+<span style="color:green">**Lessons**</span> Saturday 12:00-13:00 
+
+<span style="color:blue">**Mat fee**</span> 10 &euro;/lesson (8 &euro; for siblings) - *first lesson is free*
 
 ## Contact Details
 
