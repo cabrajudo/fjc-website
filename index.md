@@ -16,7 +16,9 @@
 ## News 
 
 
-{% include alert.html url="https://goo.gl/maps/GkZEBZg8fYvLdPHq8" text="Due to IJA coaching course in Palmerstown the Phibsboro Class will take place in Cabra Parkside on Sat Feb 29th 12:00-13:00" %}
+{% include warning.html url="https://irishjudoassociation.ie/statement-regarding-covid-19-irish-open-2020/" text="IJA statement on coronavirus. If you're feeling unwell stay home please!" %}
+
+{% include alert.html url="https://goo.gl/maps/GkZEBZg8fYvLdPHq8" text="Due to Galway open competition class will take place in Cabra Parkside on Sat Feb 29th 12:00-13:00" %}
 
 {% include info.html url="https://www.decathlon.ie/ie_en/100-kids-judo-uniform-white-en-s149518-2080464.html?gclid=CjwKCAiA98TxBRBtEiwAVRLqu4714IZEmEKC-nac98XTQlTSUMA8jok-kVAlyv3dqDNYBALKgIQLTxoCOzAQAvD_BwE" text="Decathlon has 10&euro; judo suits for sale ideal for beginners" %}
 
